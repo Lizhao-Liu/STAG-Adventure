@@ -1,4 +1,4 @@
-# Projects In JAVA
+# Projects In Java
 
 ## 1. [STAG-Adventure](./STAG-Adventure)
 
